@@ -23,8 +23,7 @@ author: Severin Schols
 email: tech@tiefpunkt.com
 tagline: An incomplete list of software and hardware hacking endevours.
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of my (previous) software and hardware hacking endevours. Anything but complete.
-  This page mostly exists to make some old links happy. And nostalgic me.
+  A collection of my software and hardware hacking endevours. Anything but complete.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tech.tiefpunkt.com"
 
