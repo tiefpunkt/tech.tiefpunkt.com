@@ -21,6 +21,7 @@
 title: tiefpunkt tech
 author: Severin Schols
 email: tech@tiefpunkt.com
+tagline: An incomplete list of software and hardware hacking endevours.
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of my (previous) software and hardware hacking endevours. Anything but complete.
   This page mostly exists to make some old links happy. And nostalgic me.
@@ -35,12 +36,24 @@ instagram_username: that_severin
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 permalink: /:year/:month/:title/
 
 twitter:
   username: tiefpunkt
   card: summary
+
+social:
+  name: Severin Schols
+  links:
+    - https://twitter.com/tiefpunkt
+    - https://github.com/tiefpunkt
+    - https://social.tchncs.de/@tiefpunkt
+    - https://www.instagram.com/that_severin/
+    - https://www.linkedin.com/in/severinschols/
+    - https://ko-fi.com/tiefpunkt
+    - https://patreon.com/tiefpunkt
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -63,3 +76,4 @@ twitter:
 #   - vendor/ruby/
 exclude:
   - README.md
+  - Makefile
